@@ -4,8 +4,8 @@ Keywords: Modelling Cognition, Neuromorphic Computing, AI, HRI, Personalized Rob
 
 - 🔭 I’m currently working on **Modelling User Cognition for Adaptive HRI** **(Part of MSCA Horizon 2020 funded project 'PERSEO')**
 - 🌱 I’m currently learning **Neuromorphic Computing**
-- 👯 I’m looking to collaborate on **Applications of Spike Neural Network and neuromorphic computing**
-- 🤔 I’m looking for help with **SpiNNAker and PyNN**
+- 👯 I’m looking to collaborate on **Applications of Spike Neural Network and Neuromorphic Computing**
+- 🤔 I’m looking for help with **SpiNNaker and PyNN**
 - 📫 How to reach me: 
 
 **LinkedIn:** https://www.linkedin.com/in/muhammad-aitsam-653894105/
