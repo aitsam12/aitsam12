@@ -1,10 +1,10 @@
 ### Hi 👋 I'm Aitsam
 
-Keywords: Modelling Cognition, Neuromorphic Computing, AI, HRI, Personalized Robotics, Differential Privacy, Smart Electronics
+Keywords: Event-Driven Perception, Neuromorphic Computing, Spiking Neural Network, SpiNNker, Artificial Intelligence, Human-Robot Interaction
 
-- 🔭 I’m currently working on **Modelling User Cognition for Adaptive HRI** **(Part of MSCA Horizon 2020 funded project 'PERSEO')**
-- 🌱 I’m currently learning **Neuromorphic Computing**
-- 👯 I’m looking to collaborate on **Applications of Spike Neural Network and Neuromorphic Computing**
+- 🔭 I’m currently working on **Neuromorphic Computing and Vision for Interactive Robotics** **(Part of MSCA Horizon 2020 funded project 'PERSEO')**
+- 🌱 I’m currently learning **Neuromorphic Sensing**
+- 👯 I’m looking to collaborate on **Applications of Event-Driven Perception and Neuromorphic Computing**
 - 🤔 I’m looking for help with **SpiNNaker and PyNN**
 - 📫 How to reach me: 
 
